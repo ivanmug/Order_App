@@ -9,7 +9,7 @@ import android.widget.ImageView
 import android.widget.Toast
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
-class MainActivity2 : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
     var orderMessage = "" //declare a global order message variable
     var price = 0
 
